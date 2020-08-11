@@ -23,8 +23,8 @@ Software Engineer with 8+ years of enterprise backup and recovery product experi
 
 
 <p align="center">
-<a href="https://www.linkedin.com/in/nachikettanksale/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nachikettanksale/" height="30" width="30" /></a>
-<a href="https://www.kaggle.com/nachiket273/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="https://www.kaggle.com/nachiket273" height="30" width="30" /></a>
-<a href="https://www.twitter.com/nachiket273/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://www.twitter.com/nachiket273" height="30" width="30" /></a>
-<a href="https://medium.com/@nachiket.tanksale" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@nachiket.tanksale" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/nachikettanksale/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"/></a>
+<a href="https://www.kaggle.com/nachiket273/"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=Kaggle" alt="Kaggle"/></a>
+<a href="https://www.twitter.com/nachiket273/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter"/></a>
+<a href="https://medium.com/@nachiket.tanksale"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"/></a>
 </p>
