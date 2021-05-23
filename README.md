@@ -26,5 +26,5 @@ Software Engineer with 8+ years of enterprise backup and recovery product experi
 <a href="https://www.linkedin.com/in/nachikettanksale/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"/></a>
 <a href="https://www.kaggle.com/nachiket273/"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=Kaggle" alt="Kaggle"/></a>
 <a href="https://www.twitter.com/nachiket273/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter"/></a>
-<a href="https://medium.com/@nachiket.tanksale"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"/></a>
+<a href="https://nachiket-tanksale.medium.com/"><img src="https://img.shields.io/badge/Medium--_.svg?style=social&logo=Medium" alt="Medium"/></a>
 </p>
