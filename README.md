@@ -1,13 +1,14 @@
 ### Hi, Nachiket here 👋
 
-Software Engineer with 8+ years of enterprise backup and recovery product experience. Currently trying to learn AI/ML.
+Software Engineer with 10+ years of enterprise backup and recovery product experience.<br>
+I'm currently working with a startup on NLP tasks.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nachiket273" alt="nachiket273" /> </p>
 
-- 🔭 I’m currently working on some side projects in computer vision.
-- 🌱 I’m currently learning NLP.
+- 🔭 I’m currently working with a startup on NLP tasks.
+- 🌱 I’m currently learning NLP, Quantum Computing.
 - 👯 I’m looking to collaborate on Machine Learning projects, even open to long term collaborations.
-- 💬 Ask me about computer vision, traditional ML algorithms, REST api, Security.
+- 💬 Ask me about NLP, traditional ML algorithms, REST api, Security.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachikettanksale/), [Twitter](https://twitter.com/nachiket273)
 
 
