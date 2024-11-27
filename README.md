@@ -5,7 +5,7 @@ I'm currently working with a startup on NLP tasks.
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nachiket273" alt="nachiket273" /> </p>
 
-- 🔭 I’m currently working with a startup on NLP tasks.
+- 🔭 I’m currently working on computer vision models for autonomous driving.
 - 🌱 I’m currently learning NLP, Quantum Computing.
 - 👯 I’m looking to collaborate on Machine Learning projects, even open to long term collaborations.
 - 💬 Ask me about NLP, traditional ML algorithms, REST api, Security.
