@@ -14,16 +14,6 @@ I'm currently working with a startup on NLP tasks.
 
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nachiket273&show_icons=true" alt="nachiket273" />
-</p>
-
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nachiket273&layout=compact&hide=html" alt="nachiket273" />
-</p>
-
-
-
-<p align="center">
 <a href="https://www.linkedin.com/in/nachikettanksale/"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=LinkedIn" alt="LinkedIn"/></a>
 <a href="https://www.kaggle.com/nachiket273/"><img src="https://img.shields.io/badge/Kaggle--_.svg?style=social&logo=Kaggle" alt="Kaggle"/></a>
 <a href="https://www.twitter.com/nachiket273/"><img src="https://img.shields.io/badge/Twitter--_.svg?style=social&logo=Twitter" alt="Twitter"/></a>
