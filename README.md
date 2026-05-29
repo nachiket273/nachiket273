@@ -1,15 +1,35 @@
-### Hi, Nachiket here 👋
+# Hi, Nachiket here 👋
 
-Software Engineer with 10+ years of enterprise backup and recovery product experience.<br>
-I'm currently working with a startup on NLP tasks.
+Applied ML Engineer and Research Engineer with 12+ years of experience across software engineering, machine learning, scientific computing, and autonomous systems.
+
+Recently completed an MSc in Quantum Technologies (UIMP, Spain), where I worked on machine learning approaches for strongly correlated quantum materials. My current interests lie at the intersection of:
+
+- Applied Machine Learning
+- Scientific AI
+- Research Engineering
+- Quantum Technologies
+- Computational Physics
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nachiket273" alt="nachiket273" /> </p>
 
-- 🔭 I’m currently working on computer vision models for autonomous driving.
-- 🌱 I’m currently learning NLP, Quantum Computing.
-- 👯 I’m looking to collaborate on Machine Learning projects, even open to long term collaborations.
-- 💬 Ask me about NLP, traditional ML algorithms, REST api, Security.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachikettanksale/), [Twitter](https://twitter.com/nachiket273)
+## Current Focus
+
+🔬 Scientific RAG Systems and Research Assistants
+
+🤖 Applied Machine Learning and Transformer-based Systems
+
+⚛️ Machine Learning for Quantum and Physical Systems
+
+📄 Research and Open-Source Projects
+
+
+## Research
+- MSc Quantum Technologies (UIMP, Spain)
+- Research under Prof. Tobias Stauber
+- Physical Review B manuscript under review
+
+
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachikettanksale/), [Twitter](https://twitter.com/nachiket273)
 
 
 
