@@ -26,7 +26,7 @@ Recently completed an MSc in Quantum Technologies (UIMP, Spain), where I worked 
 ## Research
 - MSc Quantum Technologies (UIMP, Spain)
 - Research under Prof. Tobias Stauber
-- Physical Review B manuscript under review
+- Published in PrB: https://journals.aps.org/prb/abstract/10.1103/bfbh-2xv6
 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachikettanksale/), [Twitter](https://twitter.com/nachiket273)
