@@ -31,6 +31,8 @@ Recently completed an MSc in Quantum Technologies (UIMP, Spain), where I worked 
 
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nachikettanksale/), [Twitter](https://twitter.com/nachiket273)
 
+You can support me: [![Buy Me A Coffee](https://shields.io)](https://buymeacoffee.com/nachiket273)
+
 
 
 <p align="center">
